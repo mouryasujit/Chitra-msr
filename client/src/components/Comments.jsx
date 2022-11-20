@@ -62,7 +62,7 @@ const Comments = ({ videoId }) => {
   return (
     <Container>
       <NewComment>
-        <Avatar src={currentUser.img} />
+        <Avatar src={currentUser?.img} />
         <Input
           placeholder="Add a comment..."
           onChange={(e) => setPushCOmment(e.target.value)}
