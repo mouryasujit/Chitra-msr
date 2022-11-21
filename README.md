@@ -25,6 +25,7 @@
 ## Authentication
  - jason web token for login
  - Bcryptjs for storing password in encoded form in db.
+ - Also you can login using firebase Google auth.
 ## Database
 
 - Mongodb
