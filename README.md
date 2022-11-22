@@ -3,7 +3,7 @@
 
  This is video app in which you can login and see and upload you videos and it has a build in player
 
- ## Sign in with O auth is not working as its not hosted on authorized domain 
+ ## Sign in with O auth is not working as its not hosted on authorized domain but it will work on your local system
 
 ## use cors unblock to use this project
 
