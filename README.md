@@ -5,7 +5,7 @@
 
  ## Sign in with O auth is not working as its not hosted on authorized domain 
 
-
+## use cors unblock to use this project
 
 
 ## Frontend
